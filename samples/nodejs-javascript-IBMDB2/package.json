@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@azure/identity": "^3.3.0",
+    "@azure/identity": "^4.10.0",
     "@microsoft/microsoft-graph-client": "^3.0.7",
     "axios": "^1.5.1",
     "isomorphic-fetch": "^3.0.0",
