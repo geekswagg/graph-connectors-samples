@@ -22,7 +22,7 @@
     "@azure/functions": "^4.5.0",
     "@azure/identity": "^4.4.1",
     "@microsoft/microsoft-graph-client": "^3.0.7",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.6.1",
     "gray-matter": "^4.0.3",
     "remove-markdown": "^0.5.2"
   },
