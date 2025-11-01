@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@azure/core-client": "^1.7.3",
-    "@azure/core-rest-pipeline": "1.14",
+    "@azure/core-rest-pipeline": "1.22.1",
     "@azure/data-tables": "13.2.2",
     "@azure/functions": "^4.0.0",
     "@azure/identity": "^4.0.1",
